@@ -9,10 +9,10 @@ I'm making this repository exclusively to motivate myself and track my own progr
 
 <summary>$\textcolor{red}{\textsf{TODO}}$</summary>
 
-- Youtube Playlist
+- Youtube Playlists
     - **PBS Crash Course - Computer Science**
 
-- Website Course
+- Website Courses
     - **Khan Academy - AP Computer Science Principles (Spanish)**
 
 </details>
@@ -71,8 +71,8 @@ I'm making this repository exclusively to motivate myself and track my own progr
 
 <summary>$\textcolor{red}{\textsf{TODO}}$</summary>
 
-- Youtube Playlist
-    - **Data Structures and Algorithms - Bro code **
+- Youtube Playlists
+    - **Data Structures and Algorithms - Bro code**
 
 - Books
     - **Algorithms - Panos Louridass**
@@ -94,5 +94,44 @@ I'm making this repository exclusively to motivate myself and track my own progr
 <summary>$\textcolor{green}{\textsf{Done}}$</summary>
 
 - [x] Task 1
+
+</details>
+
+### Databases
+
+<details>
+
+<summary>$\textcolor{red}{\textsf{TODO}}$</summary>
+
+- Website Courses
+    - **Tutorialesya (Spanish)**
+        - **MySQL**
+        - **SQL Server**
+        - **PostgreSQL**
+    - **SQLBolt**
+    - **Mode SQL**
+    - **SQLZoo**
+    - **sqlitetutorial.net**
+    - **Learn SQL In 30 Days - Datalemur**
+
+- Youtube Playlists
+    - ~~**MySQL tutorial for beginners**~~
+
+
+</details>
+
+<details>
+
+<summary>$\textcolor{orange}{\textsf{In Progress}}$</summary>
+
+ - [x] Task 1
+
+</details>
+
+<details>
+
+<summary>$\textcolor{green}{\textsf{Done}}$</summary>
+
+- **MySQL tutorial for beginners**
 
 </details>
