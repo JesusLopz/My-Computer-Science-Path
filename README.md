@@ -65,7 +65,7 @@ I'm making this repository exclusively to motivate myself and track my own progr
 
 </details>
 
-### Algorithms & Data Structure
+### Algorithms & Data Structures
 
 <details>
 
@@ -75,8 +75,8 @@ I'm making this repository exclusively to motivate myself and track my own progr
     - **Data Structures and Algorithms - Bro code**
 
 - Books
-    - **Algorithms - Panos Louridass**
-    - **Grokking Algorithms - Aditiya**
+    - **Algorithms - Panos Louridas**
+    - **Grokking Algorithms - Aditiya Bhargava**
     - **A Common-Sense Guide to Data Structures and Algorithms - Jay Wengrow**
 
 </details>
