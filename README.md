@@ -132,6 +132,6 @@ I'm making this repository exclusively to motivate myself and track my own progr
 
 <summary>$\textcolor{green}{\textsf{Done}}$</summary>
 
-- **MySQL tutorial for beginners**
+- [X]**MySQL tutorial for beginners**
 
 </details>
