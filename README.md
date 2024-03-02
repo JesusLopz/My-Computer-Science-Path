@@ -112,10 +112,19 @@ I'm making this repository exclusively to motivate myself and track my own progr
 <summary>$\textcolor{red}{\textsf{TODO}}$</summary>
 
 - Youtube Playlists
-    - 
+    - **Tutorialesya(diego moisset de espanes) Spanish**
+        - **C**
+        - **C++**
+        - **JavaScript**
+        - **Python**
+        - **Java**
+        - **C#**
 
 - Website Courses
     - **Learncs online|CS124(Java) - UIUC**
+    - **Ultimate Java Part 1: Fundamentals - Mosh**
+    - **Ultimate Java Part 2: Object Oriented Programming - Mosh**
+    - **Ultimate Java Part 3: Advanced Topics - Mosh**
 
 - Books
     - **Think Like a Programmer -  V. Anton Spraul**
@@ -147,6 +156,9 @@ I'm making this repository exclusively to motivate myself and track my own progr
 
 - Video Courses
     - **Introduction To Algorithms 6.006 Spring 2020 - MIT**
+    - **Ultimate Data Structures & Algorithms: Part 1 - Mosh**
+    - **Ultimate Data Structures & Algorithms: Part 2 - Mosh**
+    - **Ultimate Data Structures & Algorithms: Part 3 - Mosh**
 
 - Youtube Playlists
     - **Data Structures and Algorithms - Bro code**
@@ -289,9 +301,41 @@ I'm making this repository exclusively to motivate myself and track my own progr
 - Video Course
     - **Comptia A+ 1 and 2**
     - **Comptia Network+**
-    - **Security+**
-    - **CySA+**
+    - **Comptia Security+**
+    - **Comptia CySA+**
+    - **Computer Networks - University of Washington**
 
+- Books
+    - **Introducción a las redes - Charles Severance**
+
+</details>
+
+<details>
+
+<summary>$\textcolor{orange}{\textsf{In Progress}}$</summary>
+
+ - [x] Task 1
+
+</details>
+
+<details>
+
+<summary>$\textcolor{green}{\textsf{Done}}$</summary>
+
+- [x] Task 1
+
+</details>
+
+### Data Structures
+
+<details>
+
+<summary>$\textcolor{red}{\textsf{TODO}}$</summary>
+
+- Video Course
+    - **Mastering Design Patterns: Part 1 - Mosh**
+    - **Mastering Design Patterns: Part 2 - Mosh**
+    - **Mastering Design Patterns: Part 3 - Mosh**
 
 </details>
 
